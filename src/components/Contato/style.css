@@ -1,0 +1,19 @@
+.botao{
+    border: none;
+    height:25px;
+    border-radius: 2px;
+}
+
+.update, .delete{
+    background-color: #6c7ae0;
+    border: solid 3px white;
+    width: 100px;
+    height: 30px;
+    color: white;
+    font-weight: bold;
+    font-size: 0.9em;
+}
+
+.delete {
+    background-color: #e06c6c;
+}

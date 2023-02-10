@@ -1,0 +1,39 @@
+body{
+    margin-top: 0;
+}
+.nav-bar{
+    background-color: #6c7ae0;
+    display: flex;
+    width: 100%;
+    height: 60px;
+    justify-content: space-between;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+.component{
+   display: flex;
+   flex-direction: row;
+}
+.botao{
+    background-color: #6c7ae0;
+    border: solid 3px white;
+    width: 110px;
+    height: 30px;
+    margin-right: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 0.9em;
+}
+.botaoS{
+    background-color: #6c7ae0;
+    border: solid 3px white;
+    width: 110px;
+    height: 30px;
+    margin-right: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 0.9em;
+}

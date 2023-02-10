@@ -1,0 +1,44 @@
+form {
+    background-color: #6c7ae0;
+    width: 400px;
+    min-height: 200px;
+    margin: 30px auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 2px;
+    box-shadow: 1px 3px 10px 1px rgba(0, 0, 0, 0.267);
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    color: white;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.form input, .botao{
+    border: none;
+    height:25px;
+    border-radius: 2px;
+}
+
+.botao{
+    background-color: #6c7ae0;
+    border: solid 3px white;
+    width: 100px;
+    height: 30px;
+    color: white;
+    font-weight: bold;
+    font-size: 0.9em;
+}
+.imgLogin{
+    margin-top: 20px;
+    width: 300px;
+    height: 300px;
+}
